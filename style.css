@@ -1,0 +1,166 @@
+#mw-head {
+  background-color: #153050;
+  background-image: url(https://cdn.discordapp.com/attachments/360326347232378880/454044434120572938/Waterside_Tower.png);
+}
+
+#footer {
+  background-image: url(http://benimatic.com/tfwiki/images/0/0d/Wiki_Nav_Bar.png); 
+}
+
+body { 
+  background-image: url(http://benimatic.com/tfwiki/images/0/0d/Wiki_Nav_Bar.png); 
+}
+
+#p-personal {
+  background-color: none;
+}
+
+#p-personal a {
+  color: #50ee50;
+}
+
+#p-navigation, #p-tb {
+  background-color: #151515;
+  opacity: 0.85;
+}
+
+.body ul li a {
+  color: #50ff50 !important;
+}
+
+#p-tb-label {
+  color: white !important;
+}
+
+#footer-info li {
+  color: white !important;
+  background-color: #151515;
+  opacity: 0.85
+}
+
+#footer-places {
+  background-color: #151515;
+  opacity: 0.85;
+}
+
+#footer-places li a {
+  color: green !important;
+}
+
+.mw-body-content p, li {
+  color: #ddd;
+}
+
+.mw-body-content a {
+  color: limegreen;
+}
+
+.mw-body-content a.external {
+  color: yellowgreen;
+}
+
+table.wikitable p, table.wikitable td {
+  color: #222222;
+}
+
+table.wikitable a {
+  color: darkgreen
+}
+
+h1, h2, h3 {
+  color: #aea;
+  font-family: "Helvetica" !important;
+}
+
+.vectorTabs ul li span {
+  background-image: url(http://benimatic.com/tfwiki/images/0/04/Wiki_Button_Gradient_2.png) !important;
+}
+
+.vectorTabs ul li a {
+  color: limegreen;
+}
+
+.vectorTabs ul li.selected a {
+  color: black !important;
+}
+
+.vectorTabs ul li.new a {
+  color: tan !important;
+}
+
+.vectorTabs ul li {
+  background-image: url(http://benimatic.com/tfwiki/images/1/1c/Wiki_Button_Gradient.png) !important;
+}
+
+.vectorTabs {
+  background-image: url(http://benimatic.com/tfwiki/images/1/1c/Wiki_Button_Gradient.png) !important;
+}
+
+.catlinks {
+  background-color: #071406;
+  border: 1px solid #2a2;
+}
+
+body.page-Naga_Courtyard #content {
+  border: 1px solid #2a2;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/9/98/Wiki_Content_Naga.png);
+}
+
+body.page-Lich_Tower #content {
+  border: 1px solid #555;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/4/4c/Wiki_Content_Lich.png);
+}
+
+body.page-Labyrinth #content {
+  border: 1px solid #555;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/1/18/Wiki_Content_Mino.png);
+}
+
+body.page-Hydra_Lair #content {
+  border: 1px solid #800;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/4/4a/Wiki_Content_Hydra.png);
+}
+
+body.page-Goblin_Knight_Stronghold #content {
+  border: 1px solid #740;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/0/0a/Wiki_Content_Knight.png);
+}
+
+body.page-Dark_Tower #content {
+  border: 1px solid #530;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/5/53/Wiki_Content_Ghast.png);
+}
+
+body.page-Aurora_Palace #content {
+  border: 1px solid #530;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/b/b6/Wiki_Content_Snow.png);
+}
+
+body.page-Final_Castle #content {
+  border: 1px solid #530;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/5/5e/Wiki_Content_Final.png);
+}
+
+#content {
+  border: 1px solid #2a2;
+  border-right-width: 0px;
+  background-image: url(http://benimatic.com/tfwiki/images/4/48/Wiki_Content.png);
+  background-color: #020703;
+}
+
+.toc {
+  background-color: #071406 !important;
+  border: 1px solid #2a2 !important;
+}
+
+.tocnumber {
+  color: lightgreen;
+}
