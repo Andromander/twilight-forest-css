@@ -101,59 +101,10 @@ h1, h2, h3 {
   border: 1px solid #2a2;
 }
 
-body.page-Naga_Courtyard #content {
-  border: 1px solid #2a2;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/9/98/Wiki_Content_Naga.png);
-}
-
-body.page-Lich_Tower #content {
-  border: 1px solid #555;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/4/4c/Wiki_Content_Lich.png);
-}
-
-body.page-Labyrinth #content {
-  border: 1px solid #555;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/1/18/Wiki_Content_Mino.png);
-}
-
-body.page-Hydra_Lair #content {
-  border: 1px solid #800;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/4/4a/Wiki_Content_Hydra.png);
-}
-
-body.page-Goblin_Knight_Stronghold #content {
-  border: 1px solid #740;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/0/0a/Wiki_Content_Knight.png);
-}
-
-body.page-Dark_Tower #content {
-  border: 1px solid #530;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/5/53/Wiki_Content_Ghast.png);
-}
-
-body.page-Aurora_Palace #content {
-  border: 1px solid #530;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/b/b6/Wiki_Content_Snow.png);
-}
-
-body.page-Final_Castle #content {
-  border: 1px solid #530;
-  border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/5/5e/Wiki_Content_Final.png);
-}
-
 #content {
-  border: 1px solid #2a2;
+  border: 1px solid #272;
   border-right-width: 0px;
-  background-image: url(http://benimatic.com/tfwiki/images/4/48/Wiki_Content.png);
-  background-color: #020703;
+  background-color: #122014;
 }
 
 .toc {
