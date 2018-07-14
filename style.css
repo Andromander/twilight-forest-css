@@ -105,6 +105,7 @@ h1, h2, h3 {
   border: 1px solid #272;
   border-right-width: 0px;
   background-color: #122014;
+  background-image: url(http://benimatic.com/tfwiki/images/4/48/Wiki_Content.png);
 }
 
 .toc {
@@ -114,4 +115,24 @@ h1, h2, h3 {
 
 .tocnumber {
   color: lightgreen;
+}
+
+.main-menu p {
+  color: #8dd35f;
+}
+
+.main-menu td {
+  color: lightgreen !important;
+}
+
+.main-menu td b {
+  color: lightcyan;
+}
+
+.main-menu-nav b {
+  color: limegreen !important;
+}
+
+#mw-normal-catlinks {
+  color: tan !important;
 }
