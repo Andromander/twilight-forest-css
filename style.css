@@ -72,6 +72,14 @@ h1, h2, h3 {
   font-family: "Helvetica" !important;
 }
 
+h1, h2 {
+  border-bottom: 2px green solid;
+}
+
+hr {
+  background-color: green;
+}
+
 .vectorTabs ul li span {
   background-image: url(http://benimatic.com/tfwiki/images/0/04/Wiki_Button_Gradient_2.png) !important;
 }
@@ -121,16 +129,12 @@ h1, h2, h3 {
   color: #8dd35f;
 }
 
-.main-menu td {
+.main-menu td, .main-menu-nav b {
   color: lightgreen !important;
 }
 
 .main-menu td b {
-  color: lightcyan;
-}
-
-.main-menu-nav b {
-  color: limegreen !important;
+  color: #6cb9a2;
 }
 
 #mw-normal-catlinks {
