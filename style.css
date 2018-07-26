@@ -59,10 +59,6 @@ body {
   color: yellowgreen;
 }
 
-table.wikitable p, table.wikitable td {
-  color: #222222;
-}
-
 table.wikitable a {
   color: darkgreen
 }
@@ -141,18 +137,6 @@ hr {
   color: tan !important;
 }
 
-table.wikitable td, .wikitable th {
-  border: 1px green solid !important;
-}
-
-table.wikitable td {
-  background-color: #2b552d;
-}
-
 table.wikitable a {
   color: lightgreen
-}
-
-table.wikitable td {
-  color: #7fc4b0
 }
