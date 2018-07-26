@@ -140,3 +140,19 @@ hr {
 #mw-normal-catlinks {
   color: tan !important;
 }
+
+table.wikitable td, .wikitable th {
+  border: 1px green solid !important;
+}
+
+table.wikitable td {
+  background-color: #2b552d;
+}
+
+table.wikitable a {
+  color: lightgreen
+}
+
+table.wikitable td {
+  color: #7fc4b0
+}
