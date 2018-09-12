@@ -140,3 +140,11 @@ hr {
 table.wikitable a {
   color: lightgreen
 }
+
+#delete a {
+  color: darkblue;
+}
+
+#p-cactions-label span {
+  color: #50ee50;
+}
