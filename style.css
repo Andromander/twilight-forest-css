@@ -172,3 +172,7 @@ a.new {
 div#mw-head div.vectorMenu h3 {
   background-image: none;
 }
+
+.mw-content-ltr ul {
+  list-style-image: url(https://cdn.discordapp.com/attachments/409639644196634627/489933805948239875/dot.svg) !important;
+}
