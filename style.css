@@ -152,3 +152,15 @@ table.wikitable a {
 #history hr {
   background-color: #071a02 !important;
 }
+
+.wikitable td {
+  background-color: #2b552d; 
+  border: 1px solid #071a02 !important; 
+  color: #ddd
+}
+
+.wikitable th {
+  background-color: #196f1d !important; 
+  border: 1px solid #071a02 !important; 
+  color: whitesmoke;
+}
