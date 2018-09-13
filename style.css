@@ -164,3 +164,7 @@ table.wikitable a {
   border: 1px solid #071a02 !important; 
   color: whitesmoke;
 }
+
+a.new {
+  color: tan !important;
+}
