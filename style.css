@@ -168,3 +168,7 @@ table.wikitable a {
 a.new {
   color: tan !important;
 }
+
+div#mw-head div.vectorMenu h3 {
+  background-image: none;
+}
