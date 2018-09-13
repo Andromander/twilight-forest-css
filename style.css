@@ -148,3 +148,7 @@ table.wikitable a {
 #p-cactions-label span {
   color: #50ee50;
 }
+
+#history hr {
+  background-color: #071a02 !important;
+}
