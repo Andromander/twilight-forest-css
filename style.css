@@ -1,6 +1,6 @@
-#mw-head {
+#mw-page-base {
   background-color: #153050;
-  background-image: url(https://cdn.discordapp.com/attachments/360326347232378880/454044434120572938/Waterside_Tower.png);
+  background-image: url(https://cdn.discordapp.com/attachments/409639644196634627/490012520472510475/banner.png);
 }
 
 #footer {
@@ -179,4 +179,22 @@ div#mw-head div.vectorMenu h3 {
 
 #toc ul li {
   list-style-image: none;
+}
+
+.mw-body {
+  color: darkcyan
+}
+
+div#content.mw-body div#bodyContent.mw-body-content div#mw-content-text ul {
+  list-style-image: url(https://cdn.discordapp.com/attachments/409639644196634627/489933805948239875/dot.svg) !important;
+}
+
+#filetoc {
+  background-color: #071406;
+  border: 1px solid #2a2;
+}
+
+fieldset {
+  background-color: #071406;
+  border: 1px solid #2a2;
 }
