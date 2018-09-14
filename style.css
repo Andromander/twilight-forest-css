@@ -176,3 +176,7 @@ div#mw-head div.vectorMenu h3 {
 .mw-content-ltr ul {
   list-style-image: url(https://cdn.discordapp.com/attachments/409639644196634627/489933805948239875/dot.svg) !important;
 }
+
+#toc ul li {
+  list-style-image: none;
+}
