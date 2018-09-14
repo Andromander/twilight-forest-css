@@ -198,3 +198,40 @@ fieldset {
   background-color: #071406;
   border: 1px solid #2a2;
 }
+
+#contentSub {
+  color: darkcyan
+}
+
+.mw-plusminus-pos {
+  color: lime
+}
+
+.mw-plusminus-neg {
+  color: red;
+}
+
+.mw-changeslist-legend.mw-collapsible {
+  border: 1px solid #2a2;
+}
+
+#preferences {
+  background-color: #071406 !important; 
+  border: 1px solid #2a2 !important;
+}
+
+#preftoc li {
+  background-image: url(http://benimatic.com/tfwiki/images/0/04/Wiki_Button_Gradient_2.png) !important;
+}
+
+#preftoc .selected {
+    background-color: #071406 !important;
+}
+
+#preftoc li {
+    background-image: url(http://benimatic.com/tfwiki/images/0/04/Wiki_Button_Gradient_2.png) !important;
+}
+
+.mw-body-content p, li {
+  color: #071406 !important;
+}
